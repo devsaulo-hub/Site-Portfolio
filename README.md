@@ -8,6 +8,8 @@ Nesse curso você vai dominar todo **git** e ***github*** _do zero ao profission
 * Trabalhando com branches.
 
 1.  Entendendo o que é **GIT**.
+    1. O que é GIT?
+    2. Instalando na máquina.
 2.  Aprendendo sobre **repositórios**.
 3.  Trabalhando com branches.
 
