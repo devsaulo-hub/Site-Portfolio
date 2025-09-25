@@ -15,3 +15,36 @@ Nesse curso você vai dominar todo **git** e ***github*** _do zero ao profission
 
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador)
+
+>Este é um Blockquote usado para destacar uma área.
+>
+>Segunda área destacada
+
+
+```
+npm start
+```
+
+***Exemplo de uso do script
+```js
+function showName(name){
+    return 'Bem vindo: " + name; 
+}
+```
+
+***Uso do componente HTML:***
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git</span>
+</h1>
+```
+
+***CSS padrão do projeto***
+```css
+.titulo{
+
+    background-color: #FFF;
+    color: #FF0000;
+}
+```
